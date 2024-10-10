@@ -1,0 +1,32 @@
+h1{
+    color: #3B444B;
+}
+
+.intro-text{
+    
+    color: #41424C;
+    text-align: center;
+}
+
+
+div {
+    width: 190px;
+    word-wrap: break-word;
+    
+}
+
+.book-name{
+    font-weight: 900;
+    color: #232B2B;
+    text-align: center;  
+}
+
+.book-author{
+    font-weight: 450;
+    color: #5C5858;
+    text-align: center;
+}
+
+.download-btn{
+    
+}
